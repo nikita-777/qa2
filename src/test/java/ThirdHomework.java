@@ -13,6 +13,7 @@ public class ThirdHomework {
 
     @Test
     public void thirdArticle() {
+        //Some changes here
         final String TITLE_TO_FIND = "Выборы в Риге: KNAB начал 10 проверок о возможном нарушении правил агитации"
 
         System.setProperty("webdriver.chrome.driver", "c://chromedriver.exe");
