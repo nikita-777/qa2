@@ -18,7 +18,6 @@ public class ThirdHomework {
     private final By COMMENTS_PAGE_COUNT = By.xpath(".//span[contains(@class, 'type-cnt')]");
 
 
-
     @Test
     public void thirdArticle() {
         System.setProperty("webdriver.chrome.driver", "c://chromedriver.exe");
